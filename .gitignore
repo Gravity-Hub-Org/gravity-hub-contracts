@@ -1,0 +1,13 @@
+package-lock.json
+node_modules/
+/.cache-loader
+/.idea
+deployer/.idea
+ethereum/build
+.DS_Store
+Thumbs.db
+dist
+/.env
+/dump.rdb
+.next
+out
